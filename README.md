@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**fcamas/fcamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there, I'm Fredy  👋
+___
+___
+I am a iOS Developer currently based in New York. With a strong educational background in Computer Science from Hunter College and ongoing training in Data Analytics at COOP Careers, I am equipped with a diverse skill set that encompasses both software development and data analysis.
+</br>
+<img align="left" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge" />
+<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+</br>
+___
+Github Stats:
+</br>
+[![Top Langs](https://streak-stats.demolab.com/?user=fcamas&theme=highcontrast&border_radius=15)](https://github.com/fcamas)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcamas&layout=compact)](https://github.com/fcamas)
+___
+___
