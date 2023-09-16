@@ -1,6 +1,5 @@
 Hi there, I'm Fredy  👋
 ___
-___
 I am a iOS Developer currently based in New York. With a strong educational background in Computer Science from Hunter College and ongoing training in Data Analytics at COOP Careers, I am equipped with a diverse skill set that encompasses both software development and data analysis.
 </br>
 <img align="left" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
@@ -14,5 +13,4 @@ Github Stats:
 [![Top Langs](https://streak-stats.demolab.com/?user=fcamas&theme=highcontrast&border_radius=15)](https://github.com/fcamas)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcamas&layout=compact)](https://github.com/fcamas)
-___
 ___
