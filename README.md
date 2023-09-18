@@ -12,5 +12,3 @@ Github Stats:
 </br>
 [![Top Langs](https://streak-stats.demolab.com/?user=fcamas&theme=highcontrast&border_radius=15)](https://github.com/fcamas)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcamas&layout=compact)](https://github.com/fcamas)
-___
