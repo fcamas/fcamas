@@ -1,7 +1,6 @@
 Hi there, I'm Fredy  👋
 ___
 I am a iOS Developer currently based in New York. With a strong educational background in Computer Science from Hunter College and ongoing training in Data Analytics at COOP Careers, I am equipped with a diverse skill set that encompasses both software development and data analysis.
-
 </br>
 <img align="left" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge" />
