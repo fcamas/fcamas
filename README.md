@@ -11,5 +11,6 @@ I am a iOS Developer currently based in New York. With a strong educational back
 ___
 Github Stats:
 </br>
-[![Top Langs](https://streak-stats.demolab.com/?user=fcamas&theme=highcontrast&border_radius=20)](https://github.com/fcamas)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fcamas&border_radius=10&card_width=500&type=png)](https://git.io/streak-stats)
+
 </br>
