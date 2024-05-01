@@ -1,11 +1,11 @@
 # Fredy Camas - Mobile Developer
 
-![GreInvo](https://img.shields.io/badge/GreInvo-Scalable_iOS_App-blue?style=flat-square)
-![Swift](https://img.shields.io/badge/Swift-Expert-orange?style=flat-square)
-![XCode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Expert-red?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Expert-yellow?style=flat-square&logo=amazon-aws&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![GreInvo](https://img.shields.io/badge/GreInvo-Scalable_iOS_App-blue?style=for-the-badge)
+![Swift](https://img.shields.io/badge/Swift-Expert-orange?style=for-the-badge)
+![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Expert-red?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-Intermediate-yellow?style=for-the-badge&logo=android-studio&logoColor=white)
 
 I am Fredy Camas, a skilled Mobile Developer based in New York. I've showcased my expertise through the development and launch of GreInvo, a scalable iOS app. My meticulous design process involved the use of Figma, XCode, and AppStoreConnect, culminating in a successful release on the App Store.
 
